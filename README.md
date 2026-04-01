@@ -222,6 +222,7 @@ npm start
 
 ---
 
+<!--
 ## 🏆 Resume Impact
 
 This project demonstrates:
@@ -233,6 +234,7 @@ This project demonstrates:
 * Full stack integration
 
 ---
+-->
 
 ## 👩‍💻 Author
 
